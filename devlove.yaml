@@ -1,0 +1,4 @@
+shimmercat-devlove:
+    domains:
+        www.hello.com:
+            root-dir: site
